@@ -1,17 +1,69 @@
 # 🌌 SvetLuna — Dark Matter Simulation
-*A minimal, reproducible project for synthetic-field modeling, 2D spectra, and resonance-driven anomaly detection.*
+
+**Core Research Project — 2025**  
+Synthetic modeling of dark matter resonance fields using 2D spectral density, anomaly detection (LOF), and resonance correlation analysis.
 
 ---
 
-## Overview
-This repository simulates **dark-matter–inspired fields** and studies their spectral structure:
-1) generate synthetic fields (1/f “pink” noise + shaped components),  
-2) compute **2D PSD** and radial spectra,  
-3) detect anomalies via **Local Outlier Factor (LOF)**,  
-4) export artifacts (PNG/CSV/NPY) for analysis.
+## 🧭 Overview
 
-The design is deliberately minimal and fully reproducible.
+This project models a synthetic *resonance field* inspired by the physical and informational behavior of dark matter.  
+It generates random 2D energy distributions, analyzes their spectral power density (PSD), and detects anomalies using **Local Outlier Factor (LOF)**.
+
+Each experiment produces a unique field visualization and its spectral fingerprint.
 
 ---
 
-## Repository Layout
+## 🧩 Project Structure
+configs/ → YAML configuration files (parameters, noise models)
+data/ → Input and reference data (optional)
+outputs/ → Simulation outputs, spectra, and plots
+src/ → Core source code (simulation, detection, visualization)
+Makefile → Automates setup, run, and visualization
+requirements.txt → Python dependencies
+
+---
+
+## ⚙️ Run Simulation
+
+Clone and run in a Python 3.10+ environment:
+
+```bash
+git clone https://github.com/SvetLuna-Lab/SvetLuna-Dark-Matter-Simulation.git
+cd SvetLuna-Dark-Matter-Simulation
+
+make setup
+make run
+make plots
+
+outputs/figures/
+
+🔬 Methods
+
+Synthetic field construction (pink noise, Gaussian blobs, waveforms)
+
+2D Power Spectral Density (PSD) computation
+
+Resonance feature extraction
+
+Anomaly detection via LOF (Local Outlier Factor)
+
+Visualization of energy distribution and pattern emergence
+
+📊 Example Outputs
+Field	PSD	Anomalies	Spectrum
+
+	
+	
+	
+🧬 Research Direction
+
+This repository belongs to the SvetLuna Research Continuum (2025) —
+a transdisciplinary exploration of resonance, energy, and consciousness through machine intelligence.
+
+📘 Hybrid Atmospheric Installation
+
+🔭 Next: Cascade Resonance Fields & Quantum Echoes (in preparation)
+
+© 2025 Svetlana Romanova (SvetLuna)
+Independent researcher — dark matter simulation, hybrid atmospheric energy systems.

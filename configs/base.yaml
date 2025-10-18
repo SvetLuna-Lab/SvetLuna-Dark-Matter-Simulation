@@ -1,0 +1,27 @@
+seed: 42
+grid:
+  nx: 256
+  ny: 256
+
+fields:
+  components:
+    - type: pink_noise
+      weight: 0.6
+    - type: gaussian_blobs
+      weight: 0.3
+      count: 5
+      sigma: 3.0
+    - type: line_wave
+      weight: 0.1
+      freq: 0.07
+
+spectral:
+  window: hann
+  detrend: linear
+
+detection:
+  method: lof
+  contamination: 0.03
+
+save:
+  out_dir: outputs

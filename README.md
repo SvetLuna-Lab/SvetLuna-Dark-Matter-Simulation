@@ -81,3 +81,8 @@ Next: Cascade Resonance Fields & Quantum Echoes (in preparation)
 
 © 2025 Светлана Романова (SvetLuna)
 Independent researcher — dark matter simulation, hybrid atmospheric energy systems.
+
+License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.

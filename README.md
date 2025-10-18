@@ -64,6 +64,8 @@ Visualization of energy distribution and pattern emergence
 
 Detailed figures and explanations of the synthetic-field dynamics,  
 including spectral drift, cascade resonance layers, and energy field response.
+![](outputs/figures/psd_preview.png)
+📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
 
 
 	

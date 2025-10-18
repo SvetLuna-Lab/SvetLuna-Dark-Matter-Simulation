@@ -37,16 +37,7 @@ make run
 make plots
 
 outputs/figures/
-## 📊 Example Outputs
 
-| Field | PSD | Anomalies | Spectrum |
-|-------|-----|------------|-----------|
-| ![](outputs/figures/field.png) | ![](outputs/figures/psd.png) | ![](outputs/figures/scores.png) | ![](outputs/figures/radial.png) |
-
-📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
-
-Detailed figures and explanations of the synthetic-field dynamics,  
-including spectral drift, cascade resonance layers, and energy field response.
 
 🔬 Methods
 
@@ -60,8 +51,19 @@ Anomaly detection via LOF (Local Outlier Factor)
 
 Visualization of energy distribution and pattern emergence
 
-📊 Example Outputs
-Field	PSD	Anomalies	Spectrum
+
+## 📊 Example Outputs
+
+| Field | PSD | Anomalies | Spectrum |
+|-------|-----|------------|-----------|
+| ![](outputs/figures/field.png) | ![](outputs/figures/psd.png) | ![](outputs/figures/scores.png) | ![](outputs/figures/radial.png) |
+
+
+📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
+
+Detailed figures and explanations of the synthetic-field dynamics,  
+including spectral drift, cascade resonance layers, and energy field response.
+
 
 	
 	

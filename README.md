@@ -58,18 +58,17 @@ Visualization of energy distribution and pattern emergence
 |-------|-----|------------|-----------|
 | ![](outputs/figures/field.png) | ![](outputs/figures/psd.png) | ![](outputs/figures/scores.png) | ![](outputs/figures/radial.png) |
 
+📘 **Engineering Note Preview**
 
+![](outputs/figures/psd_preview.png)
 
-📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
+📄 [View Full Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
 
 Detailed figures and explanations of the synthetic-field dynamics,  
 including spectral drift, cascade resonance layers, and energy field response.
-![](outputs/figures/psd_preview.png)
-📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
 
 
-	
-	
+
 	
 🧬 Research Direction
 

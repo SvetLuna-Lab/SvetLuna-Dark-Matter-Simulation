@@ -25,9 +25,6 @@ requirements.txt → Python dependencies
 ---
 
 ## ⚙️ Run Simulation
-
-Clone and run in a Python 3.10+ environment:
-
 ```bash
 git clone https://github.com/SvetLuna-Lab/SvetLuna-Dark-Matter-Simulation.git
 cd SvetLuna-Dark-Matter-Simulation
@@ -35,27 +32,23 @@ cd SvetLuna-Dark-Matter-Simulation
 make setup
 make run
 make plots
-
 outputs/figures/
 
+bash
+Копировать код
 
-🔬 Methods
-
-Synthetic field construction (pink noise, Gaussian blobs, waveforms)
-
-2D Power Spectral Density (PSD) computation
-
-Resonance feature extraction
-
-Anomaly detection via LOF (Local Outlier Factor)
-
-Visualization of energy distribution and pattern emergence
-
+```markdown
+## 🔬 Methods
+- Synthetic field construction (pink noise, Gaussian blobs, waveforms)
+- 2D Power Spectral Density (PSD) computation
+- Resonance feature extraction
+- Anomaly detection via LOF (Local Outlier Factor)
+- Visualization of energy distribution and pattern emergence
 
 ## 📊 Example Outputs
 
 | Field | PSD | Anomalies | Spectrum |
-|-------|-----|------------|-----------|
+|------|-----|-----------|----------|
 | ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) |
 
 🧭 **Engineering Note Preview**
@@ -70,8 +63,6 @@ The latent tail visualizes stored energy release controlled by τ.
 This layer feeds TIA/SPICE and CEA with realistic stochastic input.
 
 📘 [View Full Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
-
-
 	
 🧬 Research Direction
 

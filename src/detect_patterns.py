@@ -1,4 +1,3 @@
-
 import numpy as np, yaml
 from pathlib import Path
 from sklearn.neighbors import LocalOutlierFactor

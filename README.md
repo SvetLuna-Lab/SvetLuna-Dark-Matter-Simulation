@@ -56,17 +56,20 @@ Visualization of energy distribution and pattern emergence
 
 | Field | PSD | Anomalies | Spectrum |
 |-------|-----|------------|-----------|
-| ![](outputs/figures/field.png) | ![](outputs/figures/psd.png) | ![](outputs/figures/scores.png) | ![](outputs/figures/radial.png) |
+| ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) | ![](outputs/figures/psd_preview.png) |
 
-📘 **Engineering Note Preview**
+🧭 **Engineering Note Preview**
 
-![](outputs/figures/psd_preview.png)
+![Dark Matter — Engineering Note](outputs/figures/psd_preview.png)
 
-📄 [View Full Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
+*Stochastic field model (drift + 1/f + white) with latent response (τ≈0.8 s).*
 
-Detailed figures and explanations of the synthetic-field dynamics,  
-including spectral drift, cascade resonance layers, and energy field response.
+**Interpretation:**  
+The 1/f region corresponds to background density clustering.  
+The latent tail visualizes stored energy release controlled by τ.  
+This layer feeds TIA/SPICE and CEA with realistic stochastic input.
 
+📘 [View Full Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
 
 
 	

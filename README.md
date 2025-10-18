@@ -57,6 +57,8 @@ Visualization of energy distribution and pattern emergence
 | Field | PSD | Anomalies | Spectrum |
 |-------|-----|------------|-----------|
 | ![](outputs/figures/field.png) | ![](outputs/figures/psd.png) | ![](outputs/figures/scores.png) | ![](outputs/figures/radial.png) |
+![](outputs/figures/psd_preview.png)
+📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)
 
 
 📘 [View Engineering Note (PDF)](Dark_Matter_Engineering_Note.pdf)

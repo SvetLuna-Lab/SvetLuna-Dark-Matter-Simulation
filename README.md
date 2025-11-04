@@ -14,18 +14,14 @@ Each experiment produces a unique field visualization and its spectral fingerpri
 
 ---
 
-## 📊 Engineering Note (PSD & latent response)
+## Dark Matter — Engineering Note
 
-![Dark Matter — Engineering Note](figuresdark_matter_engineering_note.png)
+![Dark Matter — Engineering Note](figures/dark_matter_engineering_note.png)
 
-*Stochastic field model with drift + 1/f + white noise and latent response (τ ≈ 0.8 s).  
+Stochastic field model with drift + 1/f + white noise and latent response (τ ≈ 0.8 s).
+
 Top: time-domain window and power spectral density (PSD).  
-Bottom: impulse test and PSD comparison for baseline vs. injected field.*
-
-Reproducibility: run
-
-```bash
-python src/dark_matter_analysis.py
+Bottom: impulse test and PSD comparison for baseline vs injected field.
 
 ---
 
